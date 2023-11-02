@@ -1,5 +1,6 @@
 const http=require("http");
-
+//naya changes
+//prateek
 const server=http.createServer(callback);
 function callback(req,res){
     let a=[50,23];
